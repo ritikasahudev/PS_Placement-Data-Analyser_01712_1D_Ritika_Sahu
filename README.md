@@ -14,7 +14,7 @@ A Placement Data Analyzer built using Python, Pandas, and Matplotlib. This proje
 - Performs branch-wise placement analysis.
 - Generates a pie chart to display branch-wise placement distribution.
 - Generates a bar chart to visualize branch-wise placement statistics.
-- Menu-driven program for selecting different test cases.
+- Menu-driven programs for selecting different test cases.
 
 🛠️ **Technologies Used**
 
