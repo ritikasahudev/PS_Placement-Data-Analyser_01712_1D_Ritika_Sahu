@@ -1,8 +1,8 @@
-# 📊 Placement Data Analyzer
+# Placement Data Analyzer
 
 A Placement Data Analyzer built using Python, Pandas, and Matplotlib. This project analyzes student placement records, handles invalid data, calculates placement statistics, and visualizes branch-wise placement information.
 
-🚀 **Features**
+**Features**
 
 - Four different test cases for placement data analysis.
 - CSV file handling to read student placement records.
@@ -16,27 +16,27 @@ A Placement Data Analyzer built using Python, Pandas, and Matplotlib. This proje
 - Generates a bar chart to visualize branch-wise placement statistics.
 - Menu-driven programs for selecting different test cases.
 
-🛠️ **Technologies Used**
+**Technologies Used**
 
 - Python 3
 - Pandas
 - Matplotlib
 
-🧪 **Test Cases**
+**Test Cases**
 
 - **Test Case 1 – Normal Input:** Analyzes regular student placement records.
 - **Test Case 2 – Minimum Input:** Handles a dataset containing only one student.
 - **Test Case 3 – Invalid Input:** Identifies invalid and negative package values and keeps valid records.
 - **Test Case 4 – Different Valid Scenario:** Performs branch-wise analysis and generates pie and bar charts.
 
-📊 **Data Visualization**
+**Data Visualization**
 
 Test Case 4 generates:
 
 - Pie chart showing branch-wise placement distribution.
 - Bar chart comparing branch-wise placement statistics.
 
-🧠 **Concepts Practiced**
+**Concepts Practiced**
 
 Through this project, I practiced:
 
@@ -52,13 +52,13 @@ Through this project, I practiced:
 - Grouping and statistical calculations
 - Data visualization using Matplotlib
 
-🎯 **Learning Outcome**
+**Learning Outcome**
 
 Building this project improved my understanding of Python programming, data handling, and logical problem-solving.
 
 I also learned how to work with CSV files, analyze datasets using Pandas, handle invalid records, and represent data visually using charts.
 
-👨‍💻 **Developer**
+**Developer**
 
 Ritika Sahu
 
