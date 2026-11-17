@@ -35,7 +35,6 @@ The project uses Pandas for data manipulation and Matplotlib for data visualizat
 | Python | Main programming language |
 | Pandas | Data processing and analysis |
 | Matplotlib | Data visualization |
-| CSV | Storing and reading placement records |
 
 ## 5. Test Cases
 
@@ -62,6 +61,7 @@ Placement_Data_Analyzer/
 │
 ├── Codebase/
 │   └── code.py
+│   └── README.MD
 │
 ├── TestCases/
 │   ├── TC1.png
